@@ -5,162 +5,486 @@
     <description>Blog with band news, history, songwriting, and bullshit</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Mar 2021 15:41:44 -0400</pubDate>
-    <lastBuildDate>Wed, 17 Mar 2021 15:41:44 -0400</lastBuildDate>
+    <pubDate>Wed, 17 Mar 2021 16:20:33 -0400</pubDate>
+    <lastBuildDate>Wed, 17 Mar 2021 16:20:33 -0400</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
-        <title>Intro</title>
-        <description>&lt;h1 id=&quot;intro&quot;&gt;Intro&lt;/h1&gt;
+        <title>We Are Back!!!</title>
+        <description>&lt;p&gt;Sorry for the long delay, but after a year of hand-conversion and learning to program in an entirely new environment, my personal website and blog are now back online. Anyone familiar with my history usually notes that I make big announcements for small changes, tease ‘more info soon’, then drag my feet delivering. I’ll try to break that cycle now.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/mockup.png&quot; alt=&quot;mockup&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;For the moment, this is more a proof of concept, since using Jekyll to build my site/blog is new to me, and some of the funcionality I can only test as it’s live, so if this works, then things really SHOULD go more quickly.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Textalic&lt;/strong&gt; is a simple, responsive jekyll theme focus on blogging. Here is a &lt;a href=&quot;https://unifreak.github.io&quot;&gt;live demo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;But then, we all know what a shitshow 2020 has been, which is when this whole thing first fell apart, just before the whole fucking world did as well. And that’s a story I’m actually eager to tell, as well as catch you up on what a whole year of pandemic has done to the least-hard-working-man in show business.&lt;/p&gt;
 
-&lt;h1 id=&quot;features&quot;&gt;Features&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Github flavor markdown rendering&lt;/li&gt;
-  &lt;li&gt;Post category, tag and series&lt;/li&gt;
-  &lt;li&gt;Code highlighting&lt;/li&gt;
-  &lt;li&gt;Autogenerate table of content&lt;/li&gt;
-  &lt;li&gt;Disqus comment&lt;/li&gt;
-  &lt;li&gt;Fulltext search (powered by &lt;a href=&quot;https://github.com/christian-fei/Simple-Jekyll-Search&quot;&gt;jekyll-simple-search plugin&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;Google analytics&lt;/li&gt;
-  &lt;li&gt;Atom feed&lt;/li&gt;
-  &lt;li&gt;Sitemap&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;But for now, just cross your fingers and hope this works.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
-        <link>/doc/Intro</link>
-        <guid isPermaLink="true">/doc/Intro</guid>
+        <pubDate>Thu, 11 Mar 2021 00:00:00 -0500</pubDate>
+        <link>/news/we-are-back</link>
+        <guid isPermaLink="true">/news/we-are-back</guid>
         
-        <category>tutorial</category>
-        
-        <category>textalic</category>
+        <category>Meta</category>
         
         
-        <category>doc</category>
+        <category>News</category>
         
       </item>
     
       <item>
-        <title>Install</title>
-        <description>&lt;h2 id=&quot;install--configuration&quot;&gt;Install &amp;amp; Configuration&lt;/h2&gt;
+        <title>Lyrics - Enslaved Cadavers</title>
+        <description>&lt;p&gt;As I was in the middle of working on the six songs that Stan/Dementor gave me for the first Death Beast demo, we were happy enough with what we were working on that we thought we should fill it out to a full album, and so some time later (either later in 2001 or through the earliest part of 2002) he sent me lyrics to two more songs, “Enslaved Cadavers” and “Invoking Villainy”. “Enslaved Cadavers” was the first one in the email so it was the first one I picked to start working on:&lt;/p&gt;
 
-&lt;h3 id=&quot;set-up-jekyll&quot;&gt;Set up jekyll&lt;/h3&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Thousands of rotting coffins lay empty
+Under thousands of tombstones
+Paranormal morbidity stirs as
+Corpses are reborn to serve
 
-&lt;p&gt;Before anything, make sure you have set up jekyll correctly. See &lt;a href=&quot;https://jekyllrb.com/docs/&quot;&gt;the official jekyll doc&lt;/a&gt;.&lt;/p&gt;
+Undead minions of darkness
+Fight for their master...
+An army of corpses
+Enslaved cadavers...
 
-&lt;h3 id=&quot;clone-this-repo&quot;&gt;Clone this repo&lt;/h3&gt;
+No mortal shall remain alive
+Nightmares haunt those who breathe
+No escape no matter if you live or die
+Blood curdling terror burns deep
 
-&lt;p&gt;Clone this repo into to your local machine, then &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;cd&lt;/code&gt; to the root directory of your local copy. Here is an overview of the project’s file structure:&lt;/p&gt;
+Undead minions of darkness
+Fight for their master...
+An army of corpses
+Enslaved cadavers...
 
-&lt;div class=&quot;language-console highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;go&quot;&gt;jekyll-theme-textalic
-&lt;/span&gt;&lt;span class=&quot;gp&quot;&gt;├── 404.html                    #&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;404 page
-&lt;span class=&quot;go&quot;&gt;├── Gemfile
-├── LICENCE
-&lt;/span&gt;&lt;span class=&quot;gp&quot;&gt;├── _config.yml                 #&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;Main config
-&lt;span class=&quot;go&quot;&gt;├── _data
-&lt;/span&gt;&lt;span class=&quot;gp&quot;&gt;│   └── me.yml                  #&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;Personal info config
-&lt;span class=&quot;gp&quot;&gt;├── _demo_series                #&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;A demo series, add series into series folder
-&lt;span class=&quot;go&quot;&gt;│   └── demo_series_post_1.md
-├── _includes
-├── _layouts
-├── _posts
-&lt;/span&gt;&lt;span class=&quot;gp&quot;&gt;│   └── 2019-12-25-Intro.md     #&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;Add new post here
-&lt;span class=&quot;go&quot;&gt;├── _sass
-&lt;/span&gt;&lt;span class=&quot;gp&quot;&gt;├── about                       #&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;About page
-&lt;span class=&quot;gp&quot;&gt;├── assets                      #&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;images, fonts, css, js...
-&lt;span class=&quot;go&quot;&gt;│   ├── img
-&lt;/span&gt;&lt;span class=&quot;gp&quot;&gt;│   │   ├── me.png              #&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;Replace with your own, showed &lt;span class=&quot;k&quot;&gt;in&lt;/span&gt; /about page
-&lt;span class=&quot;gp&quot;&gt;├── favicon.ico                 #&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;Replace with your own
-&lt;span class=&quot;go&quot;&gt;├── feed.xml
-├── index.html
-├── resume
-&lt;/span&gt;&lt;span class=&quot;gp&quot;&gt;│   └── index.md                #&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;You may write your resume here. linked &lt;span class=&quot;k&quot;&gt;in&lt;/span&gt; /about page
-&lt;span class=&quot;go&quot;&gt;├── search.json
-├── series
-└── tag
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;install-gems&quot;&gt;Install gems&lt;/h3&gt;
-
-&lt;p&gt;Run the following to install required gems defined in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Gemfile&lt;/code&gt;:&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ bundle install
+Join us...  Join us...
+Join us...  Join us...
+Join us...  Join us...
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;h3 id=&quot;customization&quot;&gt;Customization&lt;/h3&gt;
+&lt;p&gt;The structure as written pretty much implied the structure of the song - two verse/choruses, a solo section implied, and then an outro. I had done quite a bit of work making the other songs so far pretty involved, arrangement-wise, so I thought a more straightforward song would be okay here. I started by trying to find a riff to hang the song on, and while listening to Slayer’s “Chemical Warfare” I liked how stripped-down and simple the verse riff on that was - no chords except the accent at the start and end and with long-steady strings of single-picked-notes in between. I hammered around and found what you hear now after about a half-hour - true to form, it was a pretty simple Dm-plus-tritone around the open position, with the basic ‘chords’ centering around D and Ab.&lt;/p&gt;
 
-&lt;p&gt;Edit &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_data/me.yml&lt;/code&gt; to tweek the site configuration to your need. See corresponding file’s comments for details.&lt;/p&gt;
+&lt;p&gt;I broke up the verse feel in the prechorus by going with something that reminds me a bit of those 3-on-2 crunching inverted power chord riffs like Metallica used on Kill ‘em All (the verse to Whiplash, a bit, or more like that pre-chorus thing on No Remorse) - it still uses the open string as a pedal tone, but it sounds a bit like a chord/key change because more focus is put on the accent chords than the pedal. For the chorus I went back to the same notes/chords as the main riff but with a changed feel around a more open drumbeat and ringing chords, plus a quick 16th note chromatic bit at the end plus a dramatic stop at the very end before going back to the verse.&lt;/p&gt;
 
-&lt;p&gt;You also should replace the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/favicon.ico&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/assets/img/me.png&lt;/code&gt; file with your own.&lt;/p&gt;
+&lt;p&gt;For the solo section I decided to use the stop to preface a key change. I went back to the verse riff but moved it up from D to F (third position) and straight into a solo that followed the same verse-bridge-chorus map in the higher key. At the end of the solo I thought it would be neat to hang on that stop, but with an extended drum fill going down into a more simple outro-type crunchy riff. I straighted out the riff I used for the ‘chorus’ section of the solo (in F) and just worked on a straight-8 pumping, marching drumbeat feel that would be good to fade out on with the ‘join us’ repeated.&lt;/p&gt;
 
-&lt;h3 id=&quot;run-locally&quot;&gt;Run locally&lt;/h3&gt;
+&lt;p&gt;I never got a demo of this from Stan so I don’t know what he was going to do with it, so a good deal of the arrangement of this actually came from what Ryan/Juggernaut did on his demos. First, he noticed that I left the quick solo between the two verses shorter than I originally meant to and it ended up being too few words - we needed a new stanza. He wrote one, which you can hear on the demo version of that song on the &lt;em&gt;Prophecies of Doom&lt;/em&gt; compilation (I wrote my own extra stanza, which is what made it to the final version on the album). Ryan’s real genius came through, though, on his idea for the ‘join us’ repeats on the outro. Instead of just going with single repeats or a simple gang chant, he started doing a lot of different versions with different vocal effects that pan around in different spots and start working in extra rhythms in between the main repeats. Though the details are different, the basic idea for what I ended up doing on the final version of the song for the album follows in that same vein. Using the Acid loop-joining/layering program in conjuction with Sound Forge’s manipulations and effects, I recorded a few different versions of me singing/screaming/growling “Join Us”, and then used pitch shifting (up AND down) to generate many different versions of the line, all at tempo with the music. I then took those samples into Acid and layered a steadily building set of repeats, starting with a basic set that repeated on every loop, then adding new samples above and below that repeated every other time, or every four, and with the different up/downshifted samples interspersed with the regular chants. The idea was to have a steadily-growing sound cacophony, like the army of the dead just keeps getting bigger and bigger, and I think it worked out pretty well.&lt;/p&gt;
 
-&lt;p&gt;Run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle exec serve --watch&lt;/code&gt; to run it locally.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
-        <link>/doc/Install</link>
-        <guid isPermaLink="true">/doc/Install</guid>
+        <pubDate>Fri, 10 Jan 2020 00:00:00 -0500</pubDate>
+        <link>/songs/lyrics-enslaved-cadavers</link>
+        <guid isPermaLink="true">/songs/lyrics-enslaved-cadavers</guid>
         
-        <category>tutorial</category>
+        <category>Death-Beast</category>
         
-        <category>textalic</category>
+        <category>The-Wakening</category>
         
         
-        <category>doc</category>
+        <category>Songs</category>
         
       </item>
     
       <item>
-        <title>Blogging</title>
-        <description>&lt;h2 id=&quot;blogging&quot;&gt;Blogging&lt;/h2&gt;
+        <title>Farewell Hartmuth</title>
+        <description>&lt;p&gt;&lt;em&gt;Note: the original post for this was composed completely in Wordpress in September 2019, and was subsequently destroyed by a shitty webhost in January 2020 (of fucking course…). No matter how hard we try sometimes, everything we do will be gone someday, which is the universe’s cruel joke for something supposed to be a memorial. But then I suppose most rites around death are for the living, not the dead, and while we’re still here, &lt;strong&gt;WE&lt;/strong&gt; still remember.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;You can begin writting your posts under &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/_posts&lt;/code&gt; folder. See &lt;a href=&quot;https://jekyllrb.com/docs/posts/&quot;&gt;Jekyll doc on posts&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Or try to, anyway. I’m rewriting this as of March 2021, some 18 months after the fact, so I’m sure I left some details out. Hopefully the more important truths - that he was a great guy, loved by all, and a dedicated metalhead who played a big, important part of my life - still shine through.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Posts are automatically grouped under site’s post/category and post/tag menu. You can define post’s category and tags in the post’s &lt;a href=&quot;https://jekyllrb.com/docs/front-matter/&quot;&gt;front matter&lt;/a&gt;, using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;category&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tags&lt;/code&gt; front matter block.&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;h3 id=&quot;series&quot;&gt;Series&lt;/h3&gt;
+&lt;p&gt;Farewell, Hartmuth Schindler, “Opyros”, “Black Goat” - 16 July 1967 - 05 September 2019.&lt;/p&gt;
 
-&lt;p&gt;Sereis are implemented using &lt;a href=&quot;https://jekyllrb.com/docs/collections/&quot;&gt;Jekyll’s collections&lt;/a&gt;. So to add new series, following these steps:&lt;/p&gt;
+&lt;p&gt;But the most important part of that is the dash. That dash is where he made a large, indelible mark on the metal scene that he loved so much. But let’s not forget that’s also where he was son to his parents. Friend to his friends. Husband to his wife, Cheryl. We are all large, and we all contain multitudes. And I count myself incredibly lucky, blessed, even honored, that I’m some small part of that dash up there.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Define a new collection in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt;, under &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;collections&lt;/code&gt; configuration block&lt;/p&gt;
+&lt;p&gt;I remember first ‘meeting’ him online around 1998, through ChorazaiM of Megiddo. I found out after working with him to release the Megiddo demo compilation on UHR that Barbarian Wrath had signed him for the next album. Also from ChorazaiM, I first learned of Countess through his reviews of their albums on LARM. Based solely on his recommendation, I went to blackmetal.com (remember them?) and bought &lt;em&gt;Ad Maiorem Sathanae Gloriam&lt;/em&gt; and loved it. I wanted more, and Chor suggested I email Opyros about it. I did, and for the low price of $20 he sent me the other four CDs that Countess had out at the time - &lt;em&gt;Gospel…&lt;/em&gt; and &lt;em&gt;Return of the Horned One&lt;/em&gt;, &lt;em&gt;Book of the Heretic&lt;/em&gt;, and the &lt;em&gt;Hell’s Rock-n-Roll&lt;/em&gt; EP. A few months later I bought the first slew of CDs he had released on his then-brand-spanking-new label, introducing me to Gravewurm and Alastor as well.&lt;/p&gt;
 
-    &lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; &lt;span class=&quot;na&quot;&gt;collections&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-   &lt;span class=&quot;na&quot;&gt;demo_series&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-     &lt;span class=&quot;na&quot;&gt;output&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;true&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+&lt;p&gt;He saw that I did pretty well at running my own UHR online shop, so he didn’t mind helping me stock a few releases, which of course blossomed a few years later when he wanted to give a second run at setting up an official US distro for BW, and he asked if I’d be interested. I jumped at the chance, and to whatever degree anyone outside of my immediate friend circle knows me, it’s likely at least in large part because of the notoriety I gained by being his distributor. It pushed me to work on my own music and my own label releases, and eventually bloomed again when Toby and I decided to try our own hand at a label, thus birthing Alpha Draconis Records.&lt;/p&gt;
 
-    &lt;p&gt;Note that to make the change to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; take effects, you &lt;strong&gt;need to restart jekyll&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Create the series (aka collection) folder &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/_demo_series&lt;/code&gt;. Note that the &lt;strong&gt;folder name begin with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;By adding new post under series folder, you add post under the corresponding series&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;Even that, though, doesn’t compare to the boost he gave me when he wanted to sign Death Beast. Of course I had tried to get him to do something with Rampage, but given that Hart was always a guy who liked great lyrics and strong vocal performances, it’s understandable why he didn’t want to do anything with Rampage back when I still had the mic. But that makes his endorsement of Death Beast that much more special - not only did this person, who released so many albums I’d call modern classics, think that something &lt;em&gt;I&lt;/em&gt; did was worthy of his label, but he was also the person instrumental in giving me the push to say “fuck it, I’ll do the vocals myself”. One of my proudest accomplishments is getting &lt;em&gt;The Wakening&lt;/em&gt; up to the standard that he felt was worthy of Barbarian Wrath.&lt;/p&gt;
 
-&lt;h2 id=&quot;deployment&quot;&gt;Deployment&lt;/h2&gt;
+&lt;p&gt;And, of course, tied with that, one of my greatest regrets is that I didn’t get &lt;em&gt;The Onslaught&lt;/em&gt; done quickly enough for him to hear it in all its hellish glory. He had heard scratch tracks and test mixes of the whole thing, up to perhaps a 70% stage of completion (missing maybe a few backing vocals or guitar solos), and I know he liked what he heard.&lt;/p&gt;
 
-&lt;p&gt;See &lt;a href=&quot;https://jekyllrb.com/docs/deployment/&quot;&gt;Jekyll doc on deployment&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;But that still doesn’t get to Hartmuth himself. He was funny, and opinionated, and charming. Chatting online with him about everything and nothing was great when it was every day (back in the days of AIM and instant messaging), trading emails. We even talked on the phone a couple of times - once I remember when my oldest son was still a baby. I was there feeding him and trying to get him to sleep, balancing the phone on my shoulder so I could talk and feed at the same time while he regaled me with tales of his trip to the US (the one where he did The Cannonball Run!).&lt;/p&gt;
 
-&lt;h2 id=&quot;thats-it&quot;&gt;That’s it&lt;/h2&gt;
-
-&lt;p&gt;Happy blogging!&lt;/p&gt;
+&lt;p&gt;I know a lot of people knew him a lot better than I did, but I still think of him as a friend, and I’d like to think he did the same as well. I’ll miss you.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
-        <link>/demo/Blogging</link>
-        <guid isPermaLink="true">/demo/Blogging</guid>
+        <pubDate>Thu, 05 Sep 2019 00:00:00 -0400</pubDate>
+        <link>/history/farewell-hartmuth</link>
+        <guid isPermaLink="true">/history/farewell-hartmuth</guid>
         
-        <category>tutorial</category>
+        <category>Eulogy</category>
         
         
-        <category>demo</category>
+        <category>History</category>
+        
+      </item>
+    
+      <item>
+        <title>Lyrics - Every Church Shall Burn</title>
+        <description>&lt;p&gt;“Every Church Shall Burn” was kinda the ‘bastard child’ of the first six songs that Stan/Dementor sent me in Summer of 2001. As you can see from the lyrics, they don’t scan in a regular rhythm, there are odd line counts, and the overly-long repeated section doesn’t really lend itself well to what we would think of as a chorus. As I described before, I left this one for last, and so it’s the only one of those first six that Dementor never did a demo of - though he tried, and based on what I ended up writing it was confusing on paper because I distinctly remember him emailing me and saying he wasn’t sure what I wanted him to do with it.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;They call me a blasphemer, call me a lecher
+I call 'em fools, mindless sheep, worthless beggars
+I shall indulge every sin, rebel until I die
+I shall reject their book of lies
+It's hypocritical content is only god for one act
+Take your holy bible, and wipe your shit-soaked ass...
+
+...I blaspheme thy holy chapel
+Make the nuns suck my dick...
+Perversion of the Holy Virgin
+Inversion of the Crucifix...
+...Sadistic, scourging thy wife brings me pleasure
+Psychopathic, I laugh as I slit the priest's throat...
+I'll thrust the Devil's unholy trident
+Up the mother Mary's cunt...
+
+So the idiots call me sick
+Say I should be imprisoned
+When the time comes to kill
+You shall all know my reasons
+The bastards are stupid, they drive me insane
+One day some of them shall feel the edge of my blade...
+
+...I blaspheme thy holy chapel
+Make the nuns suck my dick...
+Perversion of the Holy Virgin
+Inversion of the Crucifix...
+...Sadistic, scourging thy wife brings me pleasure
+Psychopathic, I laugh as I slit the priest's throat...
+I'll thrust the Devil's unholy trident
+Up the mother Mary's cunt...
+
+As the Virgin's hymen is torn...
+As the Antichrist is born...
+As the end of time dawns...
+Every church shall burn...
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Despite being a thrash band, I wanted to work in at least one slower song, harkening back to the way that older thrash, death, and black metal would use slow or midpaced songs to break up the constant-speed feel. Since we had covered Slaughter on the demo, my natural thought was to come up with something that had a similar feel to one of their slower songs, perhaps along the lines of “Tales of the Macabre” or “Fuck of Death”. I already had the main F-B tritone riff just sitting around (when I first came up with it, I was thinking it was a bit like Darkthrone, in the vein of their simpler old-school songs like “In the Shadow of the Horns”), but when I changed the last chord in it (sliding up to Ab) from a power chord to just a vibratoed single note it sounded a lot more like Slaughter.&lt;/p&gt;
+
+&lt;p&gt;First I just came up with a couple of basic variations of the riff, figuring on stringing them together like “Verse part A, Verse part B”, and varying the lengths until I could come up with a vocal line that fit the repeats of the riffs properly. I also tacked on that direct quote of Slaughter as the intro just for Hartmuth to smile at, and since anything worth doing is worth overdoing I also pretty early on decided to also do that trademark Slaughter “One Two Fuck You” count-in. Since the repeated part didn’t work quite so well as a traditional chorus I decided to treat it like a verse with a different riff, so a couple of hours repeating the lines over the prospective guitar riffs helped me hammer out the arrangement. I added the quick key change up to Ab between the two verses just to break up the arrangement a bit, and then when it came to the solos I thought it would be a good idea to keep up the variation by having two different riff styles in different keys with the tradeoffs - I kept one of the verse riffs for one of the solo riffs and then had a step-down new riff in low D for the other. Those solos were fun trading off, because I had just bought the wah pedal you all hear me abuse now and this was my first time giving it a workout.&lt;/p&gt;
+
+&lt;p&gt;After that, I wasn’t sure how to get back to that four-line stanza at the end, but I thought even after all of the variations up to this point it was still basically just a slow song and some kind of thrash or more upbeat bit would be best. I stuck with the original key of F and came up with a new uptempo riff, then figured it would be good to repeat the ‘chorus’ there so that it didn’t sound like just a tacked-on bit. It also helped that riding out of the end of that chorus gave me a way to bring the song full circle back to the original main riff of the song, which ended up being a perfect way to put that last stanza to some music. I felt at that point that the riff could just repeat to a fadeout, but with slightly changing drumbeats and basslines under it, slowly building in intensity. I ended up leaving the space for the last stanza at double the length it needed, so I had to write a few more lines to fill it out properly - if you’ve read the lyrics on the album (or online) you know what parts I added.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Jul 2019 00:00:00 -0400</pubDate>
+        <link>/songs/lyrics-every-church-shall-burn</link>
+        <guid isPermaLink="true">/songs/lyrics-every-church-shall-burn</guid>
+        
+        <category>Death-Beast</category>
+        
+        <category>The-Wakening</category>
+        
+        
+        <category>Songs</category>
+        
+      </item>
+    
+      <item>
+        <title>Lyrics - Agent of the Reaper</title>
+        <description>&lt;p&gt;“Agent of the Reaper” was the fifth of the original six Death Beast songs that I wrote, though it was last in the email. Song five, “Every Church Shall Burn”, had such a weird structure that I bypassed it so that I could finish an easier one first and keep the momentum going. If you’ve seen the demo tracklists, though, you know by now that this song never ended up on the original four-song demo, even though it could have been (though I guess that would have made it a five-song demo - plus covers… but I digress). I had a drum and music synchronization problem that crept in as I was in the middle of converting between two different software platforms - either two versions of Cakewalk (7.0 and 9.0) or between Cakewalk 9.0 and Sonar 1.2. The other demo songs didn’t have this problem, and it’s been so long now that I can’t remember the details. That said, I DO have a recorded version of this with Stan/Ironfist on vocals, but the drums are so out-of-sync that it’s pretty unlistenable.&lt;/p&gt;
+
+&lt;p&gt;What he gave me:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;vrs.
+They call me Demetor; the Destroyer; the Demon
+They call me a killer, Agent of the Reaper
+For when you least expect it, early in your life
+A shadowy figure stalks you and you're murdered by my knife
+Before the Reaper takes you, if He thinks you should die instantly
+He raises up his scepter, and to slay he summons me
+
+Agent of the Reaper...
+Executioner of the Worthless
+Agent of the Reaper...
+Bringer of Diabolical murder
+Agent of the Reaper...
+Slayer of youthful mortals
+Agent of the Reaper...
+I am your Destroyer!
+
+(mid song bridge type thing:)
+In the shadows I lurk
+In the dead of the night...
+When you hear my footsteps
+You shall die of fright...
+And when you feel me, getting near...
+Nothing shall save you, as you drown in fear...
+And then I will strike, send you down to Hell
+Slit your jugular vein, at Death's command...
+
+(repeat vrs. chs.)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Unlike the other songs that Stan recorded for the Death Beast demo, he sang this one pretty much the way I envisioned when I wrote it, which is pretty much the way you’ve heard it on all of the other versions that are out there. His notes about verses, bridges, and choruses suggested the structure, and with a single verse repeating fore and aft I thought it would do well as an album-ending superfast thrasher, along the lines of “Hardening of the Arteries”, “Strike of the Beast”, or “Nailed to the Cross”.&lt;/p&gt;
+
+&lt;p&gt;I remember starting with the drumbeat on this one. I was worried about the other songs being too ‘stiff’ with fast but rigid beats, so with this one I started with one of those fast, staggered 16ths-note beats that you can cram a few full-four-16ths in: dotted eighth, sixteenth, two eighths, and repeat, sometimes dropping four-sixteenths instead of the dotted-note combo. It doesn’t scan in text as well as it sounds, so just listen to the drum intro and you’ll hear what I mean. It reminded me of a lot of the kinds of fast, simple, heavy rhythms that the guys would write back when I was in Skiptoe, and so I went for a pretty straight, direct, Dm-plus-tritone progression for the main riff. On the demo I grinded on the low “D” power-chord in the open position, but after that when I started working it up for the proper album I thought it sounded a bit more classic-old-school thrash to hit the higher D in the 7th position (like those old E-based Metallica riffs).&lt;/p&gt;
+
+&lt;p&gt;The rest just flowed from trying to keep the fast feeling through the verses - not changing the tempo or beat too much, but using different kinds of riffs for each section. The regular thrash-styled ‘3-on-4’ riff for the verse changed to a combined riff of ringing chords under a muted 16th-note riff, then a different staccato riff for the chorus that combined chugging with accent chords. Instead of chugging on just a low ‘D’ I alternated D and F, another thing that harkened back to the Skiptoe days. Changing to the slow ‘mosh’ part for the bridge was a given, and again it just kinda wrote itself, along with the way the song flowed back to the chorus riff for the solo, then used the verse turnaround to come back to the main riff. I wish I could still make them fall together this easily nowadays.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 13 Jun 2019 00:00:00 -0400</pubDate>
+        <link>/songs/lyrics-agent-of-the-reaper</link>
+        <guid isPermaLink="true">/songs/lyrics-agent-of-the-reaper</guid>
+        
+        <category>Death-Beast</category>
+        
+        <category>The-Wakening</category>
+        
+        
+        <category>Songs</category>
+        
+      </item>
+    
+      <item>
+        <title>Lyrics - Death Beast</title>
+        <description>&lt;p&gt;The song “Death Beast” was another in the long line of songs named after the band playing it, and so with awareness of this fact in my mind I tried to wrap up as much about the band as I could into a single song so that it would serve as a fitting signature for us. Seeing the different structures of the stanzas I was given, the first thought I had was that this meant I’d need this to be not-quite an epic song, but definitely one that has more than its fair share of tempo changes, key/tonality changes, and drumbeat/feel changes.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Unholy disease ususrps the land
+The evil beast destroys all men
+Damnation rose from the depths of Hell
+Pestilence upon this world befell
+Disease, a plague of incredible agony
+Man shall suffer, writhe in pain, eternally
+
+Destroyed by the Death Beast!
+With black wings of doom
+And horns for impalement...
+Destroyed by the Death Beast!
+How he soars and maims,
+The beast of the plague...
+
+Killed by the Death Beast, Slaughtered for fun
+Damned by the Plague Beast, Evil has won
+Murdered by the Death Beast, Violence is king
+Tortured by the Plague Beast, Eternally
+
+Destroyed by the Death Beast!
+How he soars and maims,
+The beast of the plague...
+Destroyed by the Death Beast!
+With black wings of doom
+And horns for impalement...
+
+The Death Beast usurps the land
+The pestilence destroys all men
+Evil rose from the crypts of Hell
+Damnation upon this world befell
+The last of the plagues, the final Black Death
+Now mankind shall feel, Ahriman's wrath...
+
+The Death Beast
+The Hell Beast
+The Death Beast
+The Plague Beast...
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;One of my standard bag of tricks when trying to do one of those more involved song structures is to find a riff that I can use in different feels or time signatures - typically, something like a midpaced 6/8 ‘triplet’ feel to start, then mutate into some form of 4/4 either as marching eighth notes or blazing-fast 16th notes. The first riff to the song was one I came up with pretty easily, using a pretty standard I to flat-V/tritone progression (D to Ab) with different turnarounds alternating on each repeat. For more variation in the structure, though, I didn’t return to that same riff until later in the song, after a radically different verse and chorus part.&lt;/p&gt;
+
+&lt;p&gt;This song is also another classic case of the vocalist going in a totally different direction from where I thought they would go when I was writing. I initially wanted just a four-bar lead guitar fill to go straight into a verse - if you’ve heard the demo of the song and the final version, you notice the ‘missing’ solo after the first very short lead part, and it’s six repeats instead of four or eight - that’s where the first six-line verse here was supposed to go! I can’t remember now exactly what I envisioned, but I think what is now the Chorus (“Destroyed, by the Death Beast!”) was supposed to go where the verse is now, and somehow what are now the second verse and the pre-solo bridge part were supposed to be the choruses. Again, Stan/Ironfist’s changes were for the better. I don’t naturally think along the lines of a vocalist, so I plot my vocal rhythms pretty mathematically, like another instrument. What Stan did with changing feels, dropping lines, fitting six lines into four or stretching four into six or six into eight gave a much greater variation in vocal delivery than I would have come up with on my own. Nowhere is this more apparent in what I write than in this song, I think - too bad I never demoed a version with my original vocal conception to show the different. Also, it’s a testament to his ability in this area that I can’t even imagine or remember now what I was originally planning - what he came up with just feels so right.&lt;/p&gt;
+
+&lt;p&gt;But, back to the riffs, to keep up with the theme of varying my approaches to riffs and feels throughout the song, after the triplet-based D-Ab riff, I took it down three half-steps to B, where the verse stays with a steady, superfast line that’s pretty straight. The harmonized guitar riff at the end of the first 3 verse repeats was my attempt to rewrite Slayer’s “Face the Slayer”, but in a different key and faster hopefully nobody noticed too much. Descending power chords on the last repeat kept me from just repeating the same thing over and over, and it also let me lead to the chorus - Back to D, but fast like the verse while opening up with ringing power chords instead of frantic picking.&lt;/p&gt;
+
+&lt;p&gt;After the second chorus I thought it was far enough from the intro to return to the riff, but this was when I mutated the riff into a slower, crunchy 4/4 feel and added the octave-sliding bit into the mix. I somehow got that bit from Moonblood by way of Nargaroth, as I had just figured out their cover of “The Gates of Eternity” which uses an octave riff in a different key. It ended up fitting well, either layering the parts on top of each other or adding in the octave riff on each fourth repeat of the original main riff. I intended for the solo section overall to feel a bit like that middle solo section of Judas Priest’s “Sinner”, where the feel goes really slow and the lead guitar turns into a noise machine of anger, then slowly builds back up to the song again. Another part I was happy with was how the end of the solo goes like the beginning with long, ringing chords, but the second buildup goes back to the original triplets instead of the changed eighth-note section, bringing the song full circle.&lt;/p&gt;
+
+&lt;p&gt;As with most of the writing for these demo songs, after reading the lyrics repeatedly the cadence of the lyrics suggested the rhythms of the riffs, and so they all fell together pretty quickly.  I don’t remember agonizing over any of the arrangement ideas or ‘now where do I go?’ questions - quite a contrast with the songs for &lt;em&gt;The Onslaught&lt;/em&gt;, though I wouldn’t find that out for another 12 years at that point…&lt;/p&gt;
+</description>
+        <pubDate>Thu, 30 May 2019 00:00:00 -0400</pubDate>
+        <link>/songs/lyrics-death-beast</link>
+        <guid isPermaLink="true">/songs/lyrics-death-beast</guid>
+        
+        <category>Death-Beast</category>
+        
+        <category>The-Wakening</category>
+        
+        
+        <category>Songs</category>
+        
+      </item>
+    
+      <item>
+        <title>Lyrics - Blood of Dionysus</title>
+        <description>&lt;p&gt;“Blood of Dionysus” was the third of the songs that I wrote from the original email of lyrics that Dementor sent me in 2001. Since it was a drinking song I figured it would be a good one to have more of a Venom/Motorhead rocking-metal feel to, as well as using an A-string-based riff rather than the low E (well, G rather than D, since I tune down a whole step, but you know what I mean). The lyrics, as delivered, lent themselves well to a sort of ‘rock-metal on SPEED’ type of song:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;I choose to swallow this Poison
+Blood of Dionysius inside the chalice
+Fuck up my head 'til perversion
+I drink this to the gods of self malice
+
+Blood of Dionysus - the Poison of Choice...
+Blood of Dionysus - to Fuck up my head
+Blood of Dionysus - the Poison of Choice...
+Blood of Dionysus - I wish you were dead
+
+Get all fucked up, destroy my brain
+To welcome death, and forget the pain
+Hatred burns, deep inside
+Misanthropy, I hate this life
+
+Blood of Dionysus - the Poison of Choice...
+Blood of Dionysus - to Fuck up my head
+Blood of Dionysus - the Poison of Choice...
+Blood of Dionysus - I wish I was dead
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Again, this is one of the ones where the lyrics as delivered changed from what I was given to write with. I saw the verse/chorus structure here and thought that I’d use the main riff for the verse, that step-up to the IV as a bridge between verse and chorus, and then the main riff again as the chorus, with that stop and descending riff turnaround between verses. Now, hearing the way that Dementor sang it on the demo, I can’t imagine it any other way, and I think it flows better the way it’s been recorded (three times now - demo, &lt;em&gt;The Wakening&lt;/em&gt;, and the live album). Also, you see he switched the order of the first stanza here - again, I think the way everyone heard it works better than the original conception, but that back-and-forth is one of the best parts of writing by collaboration - in some ways, it’s almost more fun to play off of what someone else comes up with.&lt;/p&gt;
+
+&lt;p&gt;Given the more rock/lighthearted feel compared to the rest of the songs, the blues-solo breakdown was a given, and in this one I just stuck to the traditional 12-bar arrangement, deliberately changing some of the chord accents and basslines to quote the way Cronos did it on “Teacher’s Pet”. I kept up the Venom-song quoting in the rest of the riffing as well, with that pinch-harmonic pulloff in the main riff directly pulled from “Heaven’s on Fire” and the IV-chord step-up (where the verses are in the song) pretty much cribbed from the similar chord progression in “Leave Me in Hell”. Hey, if you’re gonna steal, steal from the best! Like Paul Stanley said in an interview once, “it’s okay to steal [when songwriting], as long as you steal a diamond and not a piece of glass.” Again, I think this one came together really quickly, so much that I don’t remember writing it all that much. Oh, that songwriting were that easy again…&lt;/p&gt;
+</description>
+        <pubDate>Thu, 23 May 2019 00:00:00 -0400</pubDate>
+        <link>/songs/lyrics-blood-of-dionysus</link>
+        <guid isPermaLink="true">/songs/lyrics-blood-of-dionysus</guid>
+        
+        <category>Death-Beast</category>
+        
+        <category>The-Wakening</category>
+        
+        
+        <category>Songs</category>
+        
+      </item>
+    
+      <item>
+        <title>Lyrics - Thunder of Armageddon</title>
+        <description>&lt;p&gt;“Thunder of Armageddon” was the second song in the first set of lyrics Dementor mailed to me in July 2001. I had just finished writing Apocalypse Metal, which borrowed heavily from Slayer’s first album, so it was somewhat natural that my mind would stay there when writing this song as well. I’ve loved the song “Die By the Sword” ever since I first heard it, so I knew I would work at least some of the ideas for that song into this one.&lt;/p&gt;
+
+&lt;p&gt;The intro of the song was planned from the start, and directly came from the song “Hell Awaits” - the idea of ringing, changing chords over steady guitar chugging and simple drum pounding is something that many bands have done but Slayer perfected. I also carried the idea of steadily increasing the intensity by stepping up the ringing chords to moving-chugging notes and more active drum patterns, then ending with a big drum fill into the main song.&lt;/p&gt;
+
+&lt;p&gt;The main riff and verse was directly inspired by Possessed. On Seven Churches, there was a split between their songs - some of them had really frantic riffing throughout with a lot of finger movement (The Exorcist, Seven Churches), and others were just fast, steady streams of straight powerchords (Satan’s Curse, Death Metal). I took the basic idea of Satan’s Curse for the verse, with a small single-note-picked riff at the turnaround. I wanted to keep the song moving through various changes, so while the verse was basically fast and steady, I left open, ringing chords for the little bridge into the chorus, then used a syncopated riff for the chorus itself, then back through the open chords into the verse again. I tried to keep the same tempo from feeling steady by using the different riff styles and changing the drumbeats, and I’m pretty happy with how that turned out.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Hear the roar, the sounds of war
+Hear the thunder of apocalypse...
+See the sky, where the demons fly
+In the darkness of the midnight eclipse...
+
+Thunder of Armageddon
+Crashing in the black sky
+Thunder of Armageddon
+This is the end of all time
+
+Blades they clash, bloody from the slash
+Kill and triumph are the only commands
+For the Army of Hell, zombies under a spell
+Death down to the earth, descends
+
+Thunder of Armageddon
+Crashing in the black sky
+Thunder of Armageddon
+This is the end of all life
+
+See the black silhouette
+In the shape of horns
+See the black wings of Lucifer...
+
+Hear the Power
+Of the Mighty Thor
+Summoning his warriors battle
+
+See devilish legions arise
+Hear the end of time...
+Hear the Thunder of Apocalypse
+
+Armageddon is coming... (3x)
+Armageddon is coming now!
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;You can see from the lyrics as written above that he changed a bit between that first email and what ended up on the album. The first, fast verses/choruses are still pretty much the same except for a couple of word changes, and they match what I heard in my head when I first wrote the music, but the slower section lost that whole ‘Mighty Thor’ second stanza. The slowdown into the second half of the song was ripped directly off Die By The Sword, right down to using the exact drumfills that Dave Lombardo used in the studio version. I even did the same thing where the guitars crunch on a single note for a couple of bars before one guitar starts playing the riff one time through, then the whole band starts the riff. I also kept up the Die By the Sword idea after the slow verse ended, with one guitar setting up a riff and the other playing a backing open, ringing-chord sequence, leading to both guitars playing the riff harmonized, then cutting loose with a fast solo.&lt;/p&gt;
+
+&lt;p&gt;From what I remember, like with “Apocalypse Metal”, it came together pretty quickly. I’d been tossing the idea of that intro over for a while, and I thought the slow buildup on it would be a nice contrast to “Apocalypse Metal”, which blasts right out of the gate. I probably put the whole thing together in a few hours over a day or two. I did modify the single-note guitar line over the chords at the end of the song a little bit between the demo and the final album. The other thing I remember was the vocal version I did when I took over vocals from Juggernaut/Ryan. Hartmuth asked me to give doing the vocals myself a try just to keep the album moving along, and I did two songs, this one and Apocalypse Metal. Doing the “end of all TIME!” scream was really hard the first couple of times but I managed to pull it off.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 19 May 2019 00:00:00 -0400</pubDate>
+        <link>/songs/lyrics-thunder-of-armageddon</link>
+        <guid isPermaLink="true">/songs/lyrics-thunder-of-armageddon</guid>
+        
+        <category>Death-Beast</category>
+        
+        <category>The-Wakening</category>
+        
+        
+        <category>Songs</category>
+        
+      </item>
+    
+      <item>
+        <title>Lyrics - Apocalypse Metal</title>
+        <description>&lt;p&gt;“Apocalypse Metal” was the first song that was ever written for Death Beast, strictly because of the fact that it was first in the email that Stan Dementor, a.k.a. “IRONFIST”, sent me in mid-2001 when we first decided to give this collaboration a try. Keeping in mind that we first collaborated because I wanted to go in a more black metal direction while he wanted to go in a more traditional-old-school direction, I reviewed the lyrics overall and saw that they fit very well with the whole stew of thrash, death, black, and speed metal that the old greats were into in the very early 80s - Mercyful Fate, Metallica, Sodom, and of course Slayer. In fact, at the time I had been listening to Slayer’s first album and picking up a few of the riffs and songs from online tab books, so when I saw the lyrics to “Apocalypse Metal” I thought they would be perfect for something very much in the vein of Slayer’s “Evil Has No Boundaries”:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Raging armies of madmen
+Storm the gates of the heavens
+The holy die by metal
+Hear the voices of daemons
+Armageddon is descending
+Thy torment, neverending
+At last, the prophecy came true
+Storms of Heavy Metal vengeance
+
+Apocalypse Metal (x4)
+
+With a swing of the axe 
+Severed is God's head
+And the cloven hoof is the sign
+As monarch, forever...Darkness Reigns!
+The iron hammer smashes the cross
+All hope for humanity is eternally lost
+Apocalypse, the disastrous end
+Total human holocaust
+
+Apocalypse Metal (x4)
+
+Spread the legs of the nun...
+Drink the blood of the minister...
+Bang your head till' exhaustion...
+Vomit on Jehovah's altars...
+Metal has triumphed...finally
+Death to Eternity...
+
+Die!
+
+Apocalypse Metal (x4)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;I started by copying that first main riff to the Slayer song, hammering the D-to-E over the low-E-string drone but changing the chords on the turnaround at the end of the riff. The cadence of the vocal rhythm fit that riff pretty well, so I just decided to go with it, setting up my main method of composing Death Beast songs, mashing up many different ideas from different bands and songs so that, while I’d obviously borrow a piece from here, a piece from there, the whole thing would have a somewhat unique look - kinda like mashing up a building from two different Lego kits.&lt;/p&gt;
+
+&lt;p&gt;I pulled a trick from Metallica stepping up a whole step for the interlude between verse and chorus, combined with a lead-guitar-melody replacing the vocal lead line like I heard in Countess. I’m not quite sure where I got the idea for the chorus riff itself, but taking the lead melody from the bridge and changing it to fit the new riff was something I’d heard a lot of other bands do, from Judas Priest to Hirilorn. Slowing it down for a ‘crunch/mosh’ riff section was another standard, from Slaughter or Anthrax (really, both!), and then of course speeding back up for the solo section. For some contrast I moved keys up for the mosh part, from D (open) to F (third position), since I don’t use F in any other section of the song, and then returned back to the basic D to E (whole-step, like the bridge) to the chorus progression. I also wanted to keep the variation theme going, so while the key shifts follow the same verse-bridge-chorus pattern I did a different rhythm pattern for the verse section, then changed back to the familiar patterns I’d set up for the bridge and chorus while changing the bass pattern for the bridge and continuing the solo throughout.&lt;/p&gt;
+
+&lt;p&gt;As far as writing it goes, I really only spent about an hour or two coming up with the parts and deciding what kind of drum patterns I wanted for each part, then a couple of hours actually programming it out. I left the spaces and riffs anticipating a particular singing pattern based on the verses he gave me above, but when he returned his first vocal take for this he had changed it completely! I’d intended for him to sing the second half of each verse over the step-up ‘bridge’ part, then repeat “Apocalypse Metal” four times over the chords after the bridge, then a quick stop before the next verse, but as you all know from hearing the song he changed it a bit - and, I think, for the better. I also was expecting more of his black rasp like he used in Song of Melkor, not the old-school Slayer+Nasty Savage gruff singing with falsetto stabs, but the way he made that stand out by sticking the chorus just once, right in the pause, worked perfectly.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 17 Mar 2019 00:00:00 -0400</pubDate>
+        <link>/songs/lyrics-apocalypse-metal</link>
+        <guid isPermaLink="true">/songs/lyrics-apocalypse-metal</guid>
+        
+        <category>Death-Beast</category>
+        
+        <category>The-Wakening</category>
+        
+        
+        <category>Songs</category>
+        
+      </item>
+    
+      <item>
+        <title>Death Beast History: The Wakening, and The Wakening</title>
+        <description>&lt;p&gt;In the series “The First Stirrings of the Death Beast” I relayed the story of how the band was first formed by me and Dementor (and my kayfabe co-conspirators), how we tried to continue with the loss of Dementor, the addition of Juggernaut, and the departure of Juggernaut. It ended with Hartmuth finally kicking me off my ass to do the vocals myself, actually digging down deep and pulling off a performance that he would be happy to release. This was during the late Spring to early Summer of 2004.&lt;/p&gt;
+
+&lt;p&gt;I never really intended to do the whole thing myself, but since almost everything was already written I could still tell myself that Death Beast was more than just Rampage with a different production. This was of course helped along by Aerik being the vocalist for Rampage. The upside, though, was that the album would be finished as soon as *I* could finish it, without having to worry about someone else’s timetable or unforseen delays on the part of any other collaborator.&lt;/p&gt;
+
+&lt;p&gt;By this time I had quite a mishmash of different-sounding tracks going at once. The original songs from the first demo had their own tones and sound, I had a newer, cleaner set for some of the ones I had demoed just before we got Juggernaut, and then a couple that I did during the time he was in the band. Each time I had honed in on a general sound that was closer to what I envisioned, which is pretty much what you hear on the final disc now. With the settings for “Here Comes the War” in mind, I did a couple of final tone and EQ tweaks, and then set myself upon the task of rerecording the entire album from scratch so that it all sounded like a full album, not a demo compilation.&lt;/p&gt;
+
+&lt;p&gt;I had changed a few arrangements of the older songs, and my playing was sharper thanks to the increased amount of rehearsing and recording I had been doing for both the old Death Beast stuff and the newer Rampage stuff I was working on at the same time (&lt;em&gt;Displeasures&lt;/em&gt; had been finished just before the latest DB demo recordings, and &lt;em&gt;Crimson Frost&lt;/em&gt; would be recorded some time in the middle of all of this as well). Also, while working with Ramrod, he gave me a few new toys in the form of software packages that gave me some new ideas for recording and composing. The most-used among these was ACID. ACID is now a full recording/sampling/composing platform, but at the time the earlier versions were more used for simply looping clips. Playing around with that gave me some great ideas for simplifying some of the recording, and I quite literally couldn’t have done the album intro without it - but more on that when I get to the individual song posts.&lt;/p&gt;
+
+&lt;p&gt;The final recordings took place from late 2004 through the middle of 2005. Again, time obscures perfect recollection, but fortunately I had started blogging by that time, and despite my earlier predilection to keep up the kayfabe in my blogposts I can still construct a pretty reliable timeline of when I got things done. I know for sure, of course, that the album was released in September 2005, and because I knew it would be getting to Hartmuth for his birthday that influenced my choice to add the Twisted Sister cover to the album as an unlisted birthday present for him. In fact, BOTH covers on that disc were specifically for Hart - one of the reasons he ever started paying attention to me was that one of his favorite bands was Nasty Savage, one of his favorite Nasty Savage songs was “Witches Sabbath”, and I covered that one with Rampage on the old &lt;em&gt;This End Up&lt;/em&gt; album. When I was in the early stages of putting the album together he said he wanted me to redo a cover of that with the Death Beast styled vocals, so I ended up giving him two-for-one on bonus covers.&lt;/p&gt;
+
+&lt;p&gt;As for the recording process itself, it was pretty painless from what I remember. Some of these songs were being recorded for the third or fourth time and everything had been put to hard drive at least once before, and the drum programs were settled for months to years in pretty much every case. Given that I had months to do the recording, I took my time with vocals and spread them out, never doing more than one or two songs a day and with plenty of recovery time between vocal days. Again, the numerous prior recordings also sped up mixing, since I already had a pretty good base and each mixdown was more of a refining tweak than getting the basics (re)done.&lt;/p&gt;
+
+&lt;p&gt;I don’t remember much about the rest of the process after that, because at the point after mailing off the master and emailing the layout files it worked like any other Barbarian Wrath release. At that time he had secured a decent CD duplication plant in the US and instead of converting the US cash he had in the outposts he just used me as the middle-person to handle payments and receiving the discs, and so I got my copies of &lt;em&gt;The Wakening&lt;/em&gt; at the same time as the second Anael album &lt;em&gt;On Wings of Mercury&lt;/em&gt; and the BW repress of the first Tearstained album. The one thing I do remember is that he tweaked the master disc I sent him. I had it perfectly mixed, mastered, and leveled exactly like I wanted it duplicated, but at the time he would sometimes take his minidisc player and remaster incoming discs to be hotter and a bit over-steered - kinda like the digital version of red-lining the master level. His master was a bit louder and had longer pauses between tracks, but the fans were happy with it, so I guess it worked.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 03 Feb 2019 00:00:00 -0500</pubDate>
+        <link>/history/death-beast-history-the-wakening-and-the-wakening</link>
+        <guid isPermaLink="true">/history/death-beast-history-the-wakening-and-the-wakening</guid>
+        
+        <category>Death-Beast</category>
+        
+        <category>The-Wakening</category>
+        
+        
+        <category>History</category>
         
       </item>
     
