@@ -83,6 +83,6 @@
 
 @media (max-width: 1200px) { #markdown-outline { display: none !important; } }
 
-@media (max-width: 768px) { #markdown-container { margin: 1rem 0 0 0; padding: 1.5rem; overflow-x: auto; } #post-title { font-size: 3rem; } }
+@media (max-width: 768px) { #markdown-container { margin: 1rem 0 0 0; padding: 1.5rem; overflow-x: auto; } #post-title { font-size: 3rem; text-transform: capitalize; } }
 
 /*# sourceMappingURL=post.css.map */
