@@ -135,11 +135,11 @@ td, th { padding: 0; }
 
 html { font-size: 10px; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
 
-body { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.42857143; color: #333333; background-color: #ffffff; }
+body { font-family: "Arial", Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.42857143; color: #333333; background-color: #ffffff; }
 
 input, button, select, textarea { font-family: inherit; font-size: inherit; line-height: inherit; }
 
-a { color: #337ab7; text-decoration: none; }
+a { color: #e3b727; text-decoration: none; }
 
 a:hover, a:focus { color: #23527c; text-decoration: underline; }
 
@@ -1573,11 +1573,11 @@ ul { list-style-type: none; }
 .fa-fonticons:before { content: "\f280"; }
 
 /** ---------------------------------------------------------------------------------------- Header style ---------------------------------------------------------------------------------------- */
-#l-header { background-color: #1c3340; color: white; }
+#l-header { background-color: #4a0b0b; color: white; }
 
-#l-header h1 { margin-top: 0; margin-bottom: 35px; font: normal small-caps bold 17rem/9.5rem "verdana",helvetica, sans-serif; letter-spacing: -0.7rem; margin-left: -2rem; }
+#l-header h1 { margin-top: 3.5rem; margin-bottom: 18px; font: Bold 32pt/16pt "arial",helvetica, sans-serif; margin-left: 0rem; }
 
-#l-header p { font: normal bold 3rem/1.5rem "verdana",sans-serif; margin-top: 3.5rem; margin-right: -1.8rem; text-align: right; }
+#l-header p { font: normal bold 18pt/10pt "arial",sans-serif; margin-bottom: 3rem; margin-left: 0rem; text-align: left; }
 
 #l-header li > a { display: block; }
 
@@ -1587,7 +1587,7 @@ ul { list-style-type: none; }
 
 #l-header .navicon { display: none; }
 
-#l-header nav > ul > li { width: 25%; float: left; text-align: center; font-size: 2rem; line-height: 5rem; border-right: 1px solid #e0e0e0; padding: 0; }
+#l-header nav > ul > li { width: 25%; float: left; text-align: center; font-size: 2rem; line-height: 4rem; border-right: 1px solid #e0e0e0; padding: 0; }
 
 #l-header nav > ul > li:hover { background: #ccc; }
 
@@ -1609,7 +1609,7 @@ ul { list-style-type: none; }
 
 @media (max-width: 768px) { #l-header { margin-bottom: 0; height: 8rem; } #l-header h1 { font-size: 8rem; line-height: 9.8rem; letter-spacing: -0.7rem; margin-left: -0.9rem; } #l-header .navbar { display: none; height: 6rem; position: absolute; top: 3.9rem; width: 100%; z-index: 200; } #l-header .subnav { height: auto; } #l-header .subnav li { background: #121b20; } #l-header .subnav li:hover { background: #090d10; } #l-header .navicon { display: block; font-size: 3rem; height: 4rem; padding-top: 2.4rem; text-align: right; padding-right: 2rem; position: absolute; top: 0; width: 100%; padding-top: 0; background-color: rgba(44, 63, 74, 0.6); } #l-header nav > ul > li { text-align: center; background-color: #253945; width: 100%; margin-right: 2rem; border-bottom: 1px solid #e0e0e0; } #l-header nav > ul > li:hover { background: #1c2b34; } #l-header .search { background-color: #253945; padding-bottom: 1rem; } }
 
-#l-main article { background: white; padding-right: 3rem; margin-top: 5rem; box-shadow: 0 0 10px #999; border-radius: 5px; }
+#l-main article { background-color: #B3B3B3; padding-right: 3rem; margin-top: 5rem; box-shadow: 0 0 10px #999; border-radius: 5px; }
 
 #l-main article:not(:first-of-type) { margin-top: 2.5rem; }
 
@@ -1617,15 +1617,15 @@ ul { list-style-type: none; }
 
 #l-main article .day { background-color: black; color: white; width: 5rem; height: 5rem; margin: 2rem auto 0.5rem auto; font: normal normal bold 2.4rem/4.9rem "Verdana",sans-serif; box-shadow: 0 0 2px #999; border-radius: 50%; }
 
-#l-main article .category { font-style: italic; font-family: comic sans ms, cursive; }
+#l-main article .category { font-style: italic; font-family: Helvetica,sans-serif; }
 
-#l-main article .title { font: normal bold 4rem Georgia, serif; font-family: 微软雅黑, Helvetica; margin-bottom: 0.4rem; /*text-shadow: 2px 3px 0px #C1C1C1;*/ }
+#l-main article .title { font: normal bold 3rem Georgia, serif; text-transform: capitalize; font-family: 微软雅黑, Helvetica; margin-bottom: 0.4rem; /*text-shadow: 2px 3px 0px #C1C1C1;*/ }
 
 #l-main article .title a { color: #333; }
 
 #l-main article hr { clear: both; }
 
-#l-main article .excerpt { font-size: 2rem; font-family: 微软雅黑, Helvetica; letter-spacing: 0.2px; text-align: justify; }
+#l-main article .excerpt { font-size: 1.5rem; font-family: 微软雅黑, Helvetica; letter-spacing: 0.2px; text-align: justify; }
 
 #l-main article .continue { margin: 0 2rem 2rem; float: right; border-radius: 5px; background-color: #dfdfdf; }
 
@@ -1635,7 +1635,7 @@ ul { list-style-type: none; }
 
 #l-main #about section { margin-bottom: 6rem; }
 
-#l-main #about header { background-color: #1C3340; color: white; max-height: 18rem; }
+#l-main #about header { background-color: #4A0B0B; color: white; max-height: 18rem; }
 
 #l-main #about header img { max-width: 17rem; position: relative; top: 9rem; border-radius: 50%; border: 4px solid white; }
 
@@ -1683,33 +1683,33 @@ ul.tags { margin: 0 !important; }
 
 .tags li:first-child { margin-left: 0; }
 
-#post-title { font-size: 4rem; font-weight: bold; margin-bottom: 0rem !important; }
+#post-title { font-size: 4rem; font-weight: bold; text-transform: capitalize; margin-bottom: 0rem !important; }
 
 #post-meta { font-style: italic; }
 
-#group-list { background-color: #F6F6F6; margin-top: 5rem; padding: 0; font-size: 2rem; box-shadow: 0 0 10px #999; }
+#group-list { background-color: #868686; margin-top: 5rem; padding: 0; font-size: 2rem; box-shadow: 0 0 10px #999; }
 
 #group-list li { height: 5rem; line-height: 5rem; border-bottom: 2px solid #DDDDDD; padding-left: 2rem; }
 
-#group-list li.current { background-color: #1C3340; }
+#group-list li.current { background-color: black; }
 
-#group-list li:hover:not(.current) { background-color: white; cursor: pointer; }
+#group-list li:hover:not(.current) { background-color: #3C3330; cursor: pointer; }
 
-#group-list a, #group-list a:visited, #group-list a:hover { text-decoration: none; color: #337ab7; }
+#group-list a, #group-list a:visited, #group-list a:hover { text-decoration: none; color: #e3b727; }
 
-.tag-count, .cate-count { float: right; font-size: 1.5rem; margin-right: 1rem; background-color: #F6F6F6; height: 50%; height: 2rem; width: 2rem; margin-top: 1.5rem; text-align: center; line-height: 2rem; box-shadow: 0 0 3px #1C3340; border-radius: 50%; }
+.tag-count, .cate-count { float: right; font-size: 1.5rem; margin-right: 1rem; background-color: #363636; height: 50%; height: 2rem; width: 2rem; margin-top: 1.5rem; text-align: center; line-height: 2rem; box-shadow: 0 0 3px #1C3340; border-radius: 50%; }
 
 @media (max-width: 992px) { #l-main #about header, #l-main #about section { padding-left: 3rem; padding-right: 3rem; } #l-main #about section#skillsets i { display: none; } #l-main #about section#skillsets div span { margin: 0rem; line-height: 4rem; } #l-main #about section#skillsets div span:first-of-type { margin-left: 0rem; } }
 
 @media (max-width: 768px) { #l-main article { padding-right: 0; margin-top: 3rem; margin-left: -0.5rem; margin-right: -0.5rem; } #l-main article:not(:first-of-type) { margin-top: 1rem; } #l-main article .title { font-size: 2rem; } #l-main article .date { display: none; } #l-main article .excerpt { font-size: 1.7rem; margin-bottom: 0rem; } #l-main article .continue { font-size: 1rem; margin: 1rem 2rem 1rem; } #l-main article hr { margin: 0rem; } #l-main .tags li { font-size: 1rem; } #l-main #paginator { margin-left: -0.5rem; } #l-main #about header { padding: 2rem; } #l-main #about header img { max-width: 10rem; position: static; display: block; margin: 0 auto; } #l-main #about header h1 { margin: 0 auto; text-align: center; position: static; } #l-main #about section#intro h2 { font-size: 4rem; margin: 0; border-bottom: 3px solid #1C3340; } #l-main #about #intro p, #l-main #about #skillsets p, #l-main #about #findme p, #l-main #about #action p { font-size: 1.7rem; } #group-list { margin-top: 3rem; } }
 
 /** ---------------------------------------------------------------------------------------- Footer style ---------------------------------------------------------------------------------------- */
-#l-footer { background-color: #1c3340; color: white; margin-top: 5rem; padding: 1.5rem; }
+#l-footer { background-color: #4a0b0b; color: white; margin-top: 5rem; padding: 1.5rem; }
 
 #l-footer h3 { margin-bottom: 0.5rem; }
 
 #l-footer .rss { font-size: 4rem; }
 
-#l-footer #legal { margin-top: 3rem; color: #8d8d8d; }
+#l-footer #legal { margin-top: 3rem; color: #cacaca; }
 
 /*# sourceMappingURL=base.css.map */
