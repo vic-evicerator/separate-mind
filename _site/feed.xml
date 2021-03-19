@@ -5,9 +5,34 @@
     <description>Blog with band news, history, songwriting, and bullshit</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 18 Mar 2021 21:56:51 -0400</pubDate>
-    <lastBuildDate>Thu, 18 Mar 2021 21:56:51 -0400</lastBuildDate>
+    <pubDate>Thu, 18 Mar 2021 22:05:34 -0400</pubDate>
+    <lastBuildDate>Thu, 18 Mar 2021 22:05:34 -0400</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>OK, NOW We Are Back...</title>
+        <description>&lt;p&gt;Well, as you can see, it took a little longer than I thought to actually get it back online. I thought the website-build irregularities were due to it just being local and not online - instead, it was that all the code was fucked up because I moved it on my local machine and Github’s desktop app and Jekyll in general don’t like things moved after they’re built in a specific place.&lt;/p&gt;
+
+&lt;p&gt;So, it took me about a week to figure out how to move things to the right spot, then migrate all the template changes from what I’d done before to the new, properly placed template. Then, of course, Gremlins (as there always seem to be with anything more complicated than an abacus).&lt;/p&gt;
+
+&lt;p&gt;But, I’ve defeated all problems and Gremlins and now you can read about this in all its glory. As well as catch up on what I’ve been up to since 2004.&lt;/p&gt;
+
+&lt;p&gt;AND, bonus for all of you hoping for more frequent updates, this new Jekyll-built markdown blog really IS much easier to post in, now that I’m used to the way the workflow goes, so I should be able to update this more frequently. And, with this gigantic rock out of my shoe, next step - more music.&lt;/p&gt;
+
+&lt;p&gt;WHAT music I’m not sure, but anything’s better than nothing, right? Besides, does anyone out there really like one of my bands and hate the others?&lt;/p&gt;
+
+&lt;p&gt;(Don’t answer that - I’m not sure I want to know…)&lt;/p&gt;
+</description>
+        <pubDate>Thu, 18 Mar 2021 00:00:00 -0400</pubDate>
+        <link>/news/ok-now-we-are-back</link>
+        <guid isPermaLink="true">/news/ok-now-we-are-back</guid>
+        
+        <category>Meta</category>
+        
+        
+        <category>News</category>
+        
+      </item>
     
       <item>
         <title>We Are Back!!!</title>
@@ -456,35 +481,6 @@ Apocalypse Metal (x4)
         
         
         <category>Songs</category>
-        
-      </item>
-    
-      <item>
-        <title>Death Beast History: The Wakening, and The Wakening</title>
-        <description>&lt;p&gt;In the series “The First Stirrings of the Death Beast” I relayed the story of how the band was first formed by me and Dementor (and my kayfabe co-conspirators), how we tried to continue with the loss of Dementor, the addition of Juggernaut, and the departure of Juggernaut. It ended with Hartmuth finally kicking me off my ass to do the vocals myself, actually digging down deep and pulling off a performance that he would be happy to release. This was during the late Spring to early Summer of 2004.&lt;/p&gt;
-
-&lt;p&gt;I never really intended to do the whole thing myself, but since almost everything was already written I could still tell myself that Death Beast was more than just Rampage with a different production. This was of course helped along by Aerik being the vocalist for Rampage. The upside, though, was that the album would be finished as soon as *I* could finish it, without having to worry about someone else’s timetable or unforseen delays on the part of any other collaborator.&lt;/p&gt;
-
-&lt;p&gt;By this time I had quite a mishmash of different-sounding tracks going at once. The original songs from the first demo had their own tones and sound, I had a newer, cleaner set for some of the ones I had demoed just before we got Juggernaut, and then a couple that I did during the time he was in the band. Each time I had honed in on a general sound that was closer to what I envisioned, which is pretty much what you hear on the final disc now. With the settings for “Here Comes the War” in mind, I did a couple of final tone and EQ tweaks, and then set myself upon the task of rerecording the entire album from scratch so that it all sounded like a full album, not a demo compilation.&lt;/p&gt;
-
-&lt;p&gt;I had changed a few arrangements of the older songs, and my playing was sharper thanks to the increased amount of rehearsing and recording I had been doing for both the old Death Beast stuff and the newer Rampage stuff I was working on at the same time (&lt;em&gt;Displeasures&lt;/em&gt; had been finished just before the latest DB demo recordings, and &lt;em&gt;Crimson Frost&lt;/em&gt; would be recorded some time in the middle of all of this as well). Also, while working with Ramrod, he gave me a few new toys in the form of software packages that gave me some new ideas for recording and composing. The most-used among these was ACID. ACID is now a full recording/sampling/composing platform, but at the time the earlier versions were more used for simply looping clips. Playing around with that gave me some great ideas for simplifying some of the recording, and I quite literally couldn’t have done the album intro without it - but more on that when I get to the individual song posts.&lt;/p&gt;
-
-&lt;p&gt;The final recordings took place from late 2004 through the middle of 2005. Again, time obscures perfect recollection, but fortunately I had started blogging by that time, and despite my earlier predilection to keep up the kayfabe in my blogposts I can still construct a pretty reliable timeline of when I got things done. I know for sure, of course, that the album was released in September 2005, and because I knew it would be getting to Hartmuth for his birthday that influenced my choice to add the Twisted Sister cover to the album as an unlisted birthday present for him. In fact, BOTH covers on that disc were specifically for Hart - one of the reasons he ever started paying attention to me was that one of his favorite bands was Nasty Savage, one of his favorite Nasty Savage songs was “Witches Sabbath”, and I covered that one with Rampage on the old &lt;em&gt;This End Up&lt;/em&gt; album. When I was in the early stages of putting the album together he said he wanted me to redo a cover of that with the Death Beast styled vocals, so I ended up giving him two-for-one on bonus covers.&lt;/p&gt;
-
-&lt;p&gt;As for the recording process itself, it was pretty painless from what I remember. Some of these songs were being recorded for the third or fourth time and everything had been put to hard drive at least once before, and the drum programs were settled for months to years in pretty much every case. Given that I had months to do the recording, I took my time with vocals and spread them out, never doing more than one or two songs a day and with plenty of recovery time between vocal days. Again, the numerous prior recordings also sped up mixing, since I already had a pretty good base and each mixdown was more of a refining tweak than getting the basics (re)done.&lt;/p&gt;
-
-&lt;p&gt;I don’t remember much about the rest of the process after that, because at the point after mailing off the master and emailing the layout files it worked like any other Barbarian Wrath release. At that time he had secured a decent CD duplication plant in the US and instead of converting the US cash he had in the outposts he just used me as the middle-person to handle payments and receiving the discs, and so I got my copies of &lt;em&gt;The Wakening&lt;/em&gt; at the same time as the second Anael album &lt;em&gt;On Wings of Mercury&lt;/em&gt; and the BW repress of the first Tearstained album. The one thing I do remember is that he tweaked the master disc I sent him. I had it perfectly mixed, mastered, and leveled exactly like I wanted it duplicated, but at the time he would sometimes take his minidisc player and remaster incoming discs to be hotter and a bit over-steered - kinda like the digital version of red-lining the master level. His master was a bit louder and had longer pauses between tracks, but the fans were happy with it, so I guess it worked.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 03 Feb 2019 00:00:00 -0500</pubDate>
-        <link>/history/death-beast-history-the-wakening-and-the-wakening</link>
-        <guid isPermaLink="true">/history/death-beast-history-the-wakening-and-the-wakening</guid>
-        
-        <category>Death-Beast</category>
-        
-        <category>The-Wakening</category>
-        
-        
-        <category>History</category>
         
       </item>
     

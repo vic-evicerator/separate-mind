@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "OK, NOW We Are Back...",
+      "category" : "News",
+      "tags"     : "Meta",
+      "url"      : "/news/ok-now-we-are-back",
+      "date"     : "2021-03-18 00:00:00 -0400",
+      "content": "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\": {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
       "title"    : "We Are Back!!!",
       "category" : "News",
       "tags"     : "Meta",
