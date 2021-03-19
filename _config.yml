@@ -46,4 +46,4 @@ defaults:
     values:
       layout: "post"
 
-imgpath: separate-mind/assets/img/
+imgpath: ../assets/img/
