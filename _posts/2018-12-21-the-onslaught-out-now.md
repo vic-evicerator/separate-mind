@@ -9,7 +9,7 @@ After 13 years, it is complete.
 
 *The Onslaught* is finally out. It had of course been out for a couple of weeks already, but I finally received my copies from Peru, and so in my hands I'm holding the discs and the inserts that took me so long to finish. I've lived with the music for quite a while, of course, and had been hearing the final, finished version of it since I finished the final mix about ten months ago now, but to see it complete...
 
-![The Fucking Onslaught]({{site.imgpath}}/the-fucking-onslaught.jpg)
+![The Fucking Onslaught]({{site.imgpath}}the-fucking-onslaught.jpg)
 
 Everyone who had it (or gets it) will of course be able to read the credits and thanks, but I could not have done this myself, and so I think some public gratitude is in order.
 

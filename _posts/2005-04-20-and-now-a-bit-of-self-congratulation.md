@@ -17,7 +17,7 @@ http://www.livejournal.com/users/snxke/510606.html (Dead Link)
 
 *After all these years...I'm in Metal Maniacs. A picture of a CD I sang on (and an article making direct mention of The Von Frankensteins and Black Moon Rising) is now on newstands. Holy fuck... I feel like I've waited a lifetime for this... Words cannot express...*
 
-![alt text]({{site.imgpath}}/mm200507.jpg "Metal Maniacs") 
+![alt text]({{site.imgpath}}mm200507.jpg "Metal Maniacs") 
 
 \-\-\-
 

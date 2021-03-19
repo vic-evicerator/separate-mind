@@ -29,7 +29,7 @@ Now, keep in mind I'm someone who was barely in the scene for a few years over t
 
 \- Being in a band, of course, I managed to play there a few times myself while I was in Early Warning. Most of the times it was just for all-local bills, but two of our biggest gigs ever were there: we opened for Dream Theater right as they were breaking big with the song "Pull Me Under", and then we opened for Steve Vai's band "VAI" when he had Devin Townsend (The Strapping Young Lad himself) fronting for him:
 
-![Me at the Masquerade]({{site.imgpath}}/mm-for-web.jpg)
+![Me at the Masquerade]({{site.imgpath}}mm-for-web.jpg)
 
 I'm really not trying to say any of this to say how cool \*I\* am, but I'm just one semi-nobody and I got to experience ALL OF THAT, right there in those four walls.
 

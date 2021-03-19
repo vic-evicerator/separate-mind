@@ -23,17 +23,17 @@ And all this because guitar and bass are fighting for the same sonic space. This
 
 After some digging, and more hurdles involved in file format conversion from CW7 to Sonar 2, I managed to get working, mixable Sonar files for these tracks. I experimented more with levels and panning, but even those could only do so much to make these sound halfway decent - and that 'so much' was nowhere near enough. I decided that EQ was my last chance before rerecording these, something I really didn't want to do.
 
-I started with the bass. The issue, as you can hear here, is that the bass is somewhat present, but quite thin, and mostly up in the guitar range of the sonic spectrum. The midrange is where the bulk of the bass guitar's frequency range lies, so I started working with Sound Forge's graphic EQ. I put in a midrange boost, about 12 db at a range of about 640Hz to 1KHz. It sounded a LOT more full and present, somewhat like that thick, rumbling sound Cronos got on the *Eine Kleine Nachtmusik* album. I thought it could still use more balls, so I added another narrower, lower-pitched boost, so that I ended up with a two-peak boost EQ. Well, to help with the noise, I also cut a lot of the ultra-lows and rolled off the very top end. I ended up with something that looks a little like this: ![Bass Killa]({{site.imgpath}}/basskilla.jpg)
+I started with the bass. The issue, as you can hear here, is that the bass is somewhat present, but quite thin, and mostly up in the guitar range of the sonic spectrum. The midrange is where the bulk of the bass guitar's frequency range lies, so I started working with Sound Forge's graphic EQ. I put in a midrange boost, about 12 db at a range of about 640Hz to 1KHz. It sounded a LOT more full and present, somewhat like that thick, rumbling sound Cronos got on the *Eine Kleine Nachtmusik* album. I thought it could still use more balls, so I added another narrower, lower-pitched boost, so that I ended up with a two-peak boost EQ. Well, to help with the noise, I also cut a lot of the ultra-lows and rolled off the very top end. I ended up with something that looks a little like this: ![Bass Killa]({{site.imgpath}}basskilla.jpg)
 
 Next, the guitar was up. Noise reduction as such was out of the question, but I thought a midrange boost would add some clarity, while also rolling off the extreme highs and lows would help with the noise/static topping and the low-end mud. I took the BassKilla EQ filter above, rolled off the lows and highs, and deleted that lower boost. It looked like this:
 
-![Guitar EQ 1]({{site.imgpath}}/guitar1.jpg)
+![Guitar EQ 1]({{site.imgpath}}guitar1.jpg)
 
 I mixed, excited to hear what the EQ did, and it came out better, but worse - the bass was much more present, but now it was the guitar that was mostly missing! Then I thought about the problem, and realized why. Bonus Point - Can you tell me why? (And no cheating, so don't read on to the next paragraph.)
 
 Anyway, if you looked at the two pics above, you see the problem - I was STILL EQing the guitar and bass to fill the same space. I loved the bass tone, though, and boosted so many frequencies there, that I thought I'd really shot myself in the foot guitar-wise. But I gave it a swing anyway - going back to the original guitar tracks and EQing those again, keeping the low/hi rolloffs but this time moving the midrange boost down to that little valley between the two bass boosts, and then adding a couple more boosts, one above the higher bass boost, one below the lower one:
 
-![Guitar EQ 2]({{site.imgpath}}/guitar2.jpg)
+![Guitar EQ 2]({{site.imgpath}}guitar2.jpg)
 
 I mixed down, exported, burned, and gave them a listen. Can you guess how happy I was? Bonus point - click HERE and listen, then tell me.
 
