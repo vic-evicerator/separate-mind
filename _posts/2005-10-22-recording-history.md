@@ -9,7 +9,7 @@ If you've been following all my posts about songwriting, you hear me talk a lot 
 
 Well, it's like this, in a nutshell. Or 20. 
 
-##1988 - 1990: The ORIGINAL Rampage (aka "The POT Years")
+## 1988 - 1990: The ORIGINAL Rampage (aka "The POT Years")
 
 - End of 1988 - Paul and I hook up to join All Purpose
 - February 1989 - All Purpose breaks up, Paul and I jam occasionally and record. The basic idea for "The Spectre" is from some time around here.
@@ -18,7 +18,7 @@ Well, it's like this, in a nutshell. Or 20.
 - August 1989 - While visiting Steve in Asheville NC we write/record the embryonic version of "Ticket to Hell".
 
 
-##1991-1995: The Early Warning years
+## 1991-1995: The Early Warning years
 
 - January 1991 - I help form Early Warning
 - February 1992 - EW's first gig. Meet/hang out with Disjecta Membra and watch them record "Live at WREK". (This is a BIG point in my musical career.)
@@ -28,14 +28,14 @@ Well, it's like this, in a nutshell. Or 20.
 - April 1994 - EW records second half of "The Hero's Dream". This is when I start coming up with the base parts of what would become "Rainbow Skies".
 - January 1995 - I quit Early Warning. Steve visits me and we record "The Xenicide Sessions" ("The Wigglesnake Blues", codification of "Ticket to Hell", writing of "Ticket to Hell '95" which would become "Gates of the Abyss").
 
-##1995-1996: The SKIPTOE years and the Beginning of the 'New' Rampage
+## 1995-1996: The SKIPTOE years and the Beginning of the 'New' Rampage
 
 - February - July 1995 - Try to form a band with Toby. It doesn't work out
 - August 1995 - join Skiptoe as bassist. Replace old bassist's tracks on their third demo, to be released in September '95.
 - September 1995-April 1996 - my gigging stint with Skiptoe. Record one practice, one two-song demo, and several live boots. Slaughterhouse also exists in our practice room during this time, when some early Rampage songs are written (DeadRot, Kill Ya Tonite).
 - April 2, 1996 - my last gig with Skiptoe which is recorded as "Live at WREK". When I visit their practice room (in their family's music store) to get my gear, I see the now-infamous Powder Blue Warlock and trade Danny a bass cabinet to get it.
 
-##1996-1998: Rampage - the reformation, aka "The Boombox Years"
+## 1996-1998: Rampage - the reformation, aka "The Boombox Years"
 
 - June 11, 1996 - to celebrate my graduation from College, I take a day trip to visit Paul in Savannah and take my guitar. We get drunk and record the first of many tapes - this one titled *Rampage '96: Blast from the Passed*. It marks the first official new Rampage recording, and is the first time "The Wigglensake Blues", "DeadRot", and "Kill Ya Tonite" are recorded.
 - September 3-4, 1996 - *The Last Hurrah* boombox tape set recorded. Marks first official recordings of "The Last Hurrah" (later retitled "The Wakening", from *Bellum Infinitum*), "Doom Metal", "Doomsayer", "Wanderlust", and "Cocksucker".
@@ -44,7 +44,7 @@ Well, it's like this, in a nutshell. Or 20.
 
 \* Note - a tape version of *Satanic Symphonies/Bellum Infinitum* that was circulated in 1997 was actually a compilation of the best takes of songs from both the May 97 and December 96 sessions. The CDR version of *Satanic Symphonies* is the same as the tape version that was circulated.
 
-##1998 - 2001 - Rampage, now solo
+## 1998 - 2001 - Rampage, now solo
 
 - March-May 1998 - recording session for *Misogyny, Thy Name is Woman*. Work was done on "Bloody Leg" and "Six Bells at Midnight" with the thought of including them as 'teaser' bonus tracks for *This End Up* on the CDR version of *Misogyny*. However, only "Bloody Leg" was finished in time. It was remixed when added to *This End Up*.
 - May - October 1998 - *This End Up* recording sessions. Songs written during this time are "Satanic Symphony", "Satanic Death", "The Gates of the Abyss", and "The Spectre".
@@ -58,7 +58,7 @@ Well, it's like this, in a nutshell. Or 20.
 - August-September 2001 - demo sessions for *Monolith* album. "Whitechapel" and "Cursed with Existence" are written during this time.
 - October-November 2001 - final album recording sessions for *Monolith*.
 
-##2002-2003 - Distractions and interruptions
+## 2002-2003 - Distractions and interruptions
 
 - January-April 2002 - Recording sessions for Death Beast demo ("Apocalypse Metal", "Blood of Dionysus", "Thunder of Armageddon", "Death Beast", and an early version of "Agent of the Reaper"). I think I did the Beherit tribute song in here somewhere too.
 - August 15, 2002 - son born. This ate up a LOT of free time...
@@ -66,7 +66,7 @@ Well, it's like this, in a nutshell. Or 20.
 - June-July 2003 - recording sessions that demoed the rest of the songs from Death Beast's first album.
 - December 2003 - record music for Countess cover for tribute album.
 
-##2004 - Present - Rampage, the rediscovery:
+## 2004 - Present - Rampage, the rediscovery:
 
 - January 2004 - I ask Aerik to join the band. Writing begins.
 - March-April 2004 - recording sessions for *Displeasures of the Flesh* EP. The title track was written in March.
