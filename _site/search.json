@@ -1,6 +1,24 @@
 [
   
     {
+      "title"    : "Lyrics - Invoking Villainy",
+      "category" : "Songs",
+      "tags"     : "Death-Beast, The-Wakening",
+      "url"      : "/songs/lyrics-invoking-villainy",
+      "date"     : "2021-10-13 00:00:00 -0400",
+      "content": "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\": {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
+      "title"    : "Not Dead Yet",
+      "category" : "Meta",
+      "tags"     : "Meta",
+      "url"      : "/meta/not-dead-yet",
+      "date"     : "2021-04-30 00:00:00 -0400",
+      "content": "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\": {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
       "title"    : "OK, NOW We Are Back...",
       "category" : "News",
       "tags"     : "Meta",
