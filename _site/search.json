@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Songwriting - The Wakening",
+      "category" : "Songs",
+      "tags"     : "Death-Beast, The-Wakening",
+      "url"      : "/songs/songwriting-the-wakening",
+      "date"     : "2021-11-01 00:00:00 -0400",
+      "content": "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\": {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
       "title"    : "Lyrics - Here Comes the War",
       "category" : "Songs",
       "tags"     : "Death-Beast, The-Wakening",

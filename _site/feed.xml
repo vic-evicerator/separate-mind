@@ -5,9 +5,38 @@
     <description>Blog with band news, history, songwriting, and bullshit</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 15 Oct 2021 19:47:16 -0400</pubDate>
-    <lastBuildDate>Fri, 15 Oct 2021 19:47:16 -0400</lastBuildDate>
+    <pubDate>Mon, 01 Nov 2021 13:55:11 -0400</pubDate>
+    <lastBuildDate>Mon, 01 Nov 2021 13:55:11 -0400</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Songwriting - The Wakening</title>
+        <description>&lt;p&gt;There are no lyrics, of course, but no discussion of the first Death Beast album would be complete without discussing the creation of the introduction track “The Wakening”. Would you call an intro a ‘title track’? I don’t think of it as such, and to be honest I just think of it as ‘the intro’ because I didn’t really realize it when titling it that I had already used “The Wakening” as a song title before - for the acoustic+lead guitar intro to the song “Soulsword” from Rampage’s “Bellum Infinitum” album.&lt;/p&gt;
+
+&lt;p&gt;The title “The Wakening” came from some AIM discussions between me and Stan when we were coming up with ideas for songs and the album. Between the two of us we came up with the idea of doing at least three albums, and then naming them in sequence - “The Wakening”, “The Onslaught”, and “The Aftermath” - with the sequence of themes being obvious. And, in looking at the lyrics Stan wrote for the first album, he certainly held up his end of the bargain - every song has some kind of an ‘impending doom’ or ‘your destruction is on the way’ kind of feel to it, and it’s what I tried to keep up with on “The Onslaught” by making the destruction not impending but active.&lt;/p&gt;
+
+&lt;p&gt;Anyway, instead of just blasting out of the gate on the first album, I knew I wanted to do some kind of intro, but clean guitars/acoustics weren’t the right feel and keyboards would not work, so I thought I’d go with some kind of lead guitar/guitar effects track - not actual music plus solos, but just noisemaking that had some kind of rhyme and reason to it. Aimless noodling wasn’t going to cut it, but a riff with solos would be too structured.&lt;/p&gt;
+
+&lt;p&gt;Fortunately, the same tool that helped me with layering backing vocals and the sound effects at the end of “Here Comes the War” ended up working perfectly - Sonic Foundry’s “Acid” looper. I had plenty of practice by doing the layering vocals for songs, whether just putting multiple vocal tracks together and in-sync or doing the more elaborate ‘growing army of the dead’ bit at the end of “Enslaved Cadavers”. I saw how I could add multiple tracks and mix them, and even mix single song-length tracks with looped repeating soundbytes, so I sat down and banged it all out in one evening.&lt;/p&gt;
+
+&lt;p&gt;The start was the feedback - I just hit ‘record’ and held my guitar up to the computer speakers which were monitoring the amp and started that nice, clean feedback. I did a bit of gradually moving it back and forth for a touch of volume swelling, but basically just let it feed back for close to two minutes, at which point I pulled back all the way to stop and I left that as the first ‘base’ track. Next I laid down a second track of me recording in stereo a Slayer-esque cacophony of random chromatic picking, trills, pinch harmonics, whammy bar dives… I put Kerry King’s entire guitar &lt;em&gt;oeuvre&lt;/em&gt; from the first three Slayer albums into two minutes. Then, for a more fucked-up sound, I edited that stereo track in Sound Forge by taking one of the two channels and just reversing it completely - that way, instead of one stereo noise track, I had two completely different noise tracks panned hard-left/hard-right with one of them sounding ‘off’ by being backwards. Then, for even more of a cacophonous sound, I recorded another guitar track of me doing high unison bends, bending both to perfect pitch and just a bit flat, kinda like Quorthon’s leads on the song “Blood Fire Death”. I just stayed on the one note through the whole track, then I edited it by fading up at the start and down at the end, and I auto-set the pan to slowly take it from center to hard-left, then slowly to hard-right, and just slowly back and forth until the end.&lt;/p&gt;
+
+&lt;p&gt;Mixing that together left me with something cacophonous and nearly amorphous, but with JUST enough structure to not be pointless. I still felt it needed something, though, and that’s when thinking back again to the “Enslaved Cadavers” outro gave me the idea to add more horror to it by adding some vocals. I started going back to the other vocal tracks on the album and cutting out particularly good screams and shouts. Then, I would make copies of them and start playing with them - pitch-shift up, or pitch-shift down, or reversing them, or leaving them in stereo and swapping phase so they sound bizarre, and just pasting those in. Then I started cutting out a couple of vocal lines and adding those, also manipulated in the same ways.&lt;/p&gt;
+
+&lt;p&gt;Then another idea hit me and I started recording some spoken lines - I’d say things like ‘death beast’ or ‘hell’ or other random words or short phrases from the lyrics. Some of these I would just slow down and paste in. Others I would reverse and put in backwards. On a couple, I reversed the line just to hear what it sounded like backwards, then I recorded myself speaking them by phonetically trying to copy the backwards speech, then reversing that fake-reverse to get something that sounded forward, but ‘off’. I also recorded one little ‘secret’ in there, pitch shifted WAY down and reversed - the cat’s out of the bag on that one so it’s not really ‘secret’ anymore, but I wonder if anyone picked it out back at the time, or will bother doing so now. Do people still try to play their metal albums backwards for the hidden messages?&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Nov 2021 00:00:00 -0400</pubDate>
+        <link>/songs/songwriting-the-wakening</link>
+        <guid isPermaLink="true">/songs/songwriting-the-wakening</guid>
+        
+        <category>Death-Beast</category>
+        
+        <category>The-Wakening</category>
+        
+        
+        <category>Songs</category>
+        
+      </item>
     
       <item>
         <title>Lyrics - Here Comes the War</title>
@@ -389,72 +418,6 @@ Slit your jugular vein, at Death's command...
         <pubDate>Thu, 13 Jun 2019 00:00:00 -0400</pubDate>
         <link>/songs/lyrics-agent-of-the-reaper</link>
         <guid isPermaLink="true">/songs/lyrics-agent-of-the-reaper</guid>
-        
-        <category>Death-Beast</category>
-        
-        <category>The-Wakening</category>
-        
-        
-        <category>Songs</category>
-        
-      </item>
-    
-      <item>
-        <title>Lyrics - Death Beast</title>
-        <description>&lt;p&gt;The song “Death Beast” was another in the long line of songs named after the band playing it, and so with awareness of this fact in my mind I tried to wrap up as much about the band as I could into a single song so that it would serve as a fitting signature for us. Seeing the different structures of the stanzas I was given, the first thought I had was that this meant I’d need this to be not-quite an epic song, but definitely one that has more than its fair share of tempo changes, key/tonality changes, and drumbeat/feel changes.&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Unholy disease ususrps the land
-The evil beast destroys all men
-Damnation rose from the depths of Hell
-Pestilence upon this world befell
-Disease, a plague of incredible agony
-Man shall suffer, writhe in pain, eternally
-
-Destroyed by the Death Beast!
-With black wings of doom
-And horns for impalement...
-Destroyed by the Death Beast!
-How he soars and maims,
-The beast of the plague...
-
-Killed by the Death Beast, Slaughtered for fun
-Damned by the Plague Beast, Evil has won
-Murdered by the Death Beast, Violence is king
-Tortured by the Plague Beast, Eternally
-
-Destroyed by the Death Beast!
-How he soars and maims,
-The beast of the plague...
-Destroyed by the Death Beast!
-With black wings of doom
-And horns for impalement...
-
-The Death Beast usurps the land
-The pestilence destroys all men
-Evil rose from the crypts of Hell
-Damnation upon this world befell
-The last of the plagues, the final Black Death
-Now mankind shall feel, Ahriman's wrath...
-
-The Death Beast
-The Hell Beast
-The Death Beast
-The Plague Beast...
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;One of my standard bag of tricks when trying to do one of those more involved song structures is to find a riff that I can use in different feels or time signatures - typically, something like a midpaced 6/8 ‘triplet’ feel to start, then mutate into some form of 4/4 either as marching eighth notes or blazing-fast 16th notes. The first riff to the song was one I came up with pretty easily, using a pretty standard I to flat-V/tritone progression (D to Ab) with different turnarounds alternating on each repeat. For more variation in the structure, though, I didn’t return to that same riff until later in the song, after a radically different verse and chorus part.&lt;/p&gt;
-
-&lt;p&gt;This song is also another classic case of the vocalist going in a totally different direction from where I thought they would go when I was writing. I initially wanted just a four-bar lead guitar fill to go straight into a verse - if you’ve heard the demo of the song and the final version, you notice the ‘missing’ solo after the first very short lead part, and it’s six repeats instead of four or eight - that’s where the first six-line verse here was supposed to go! I can’t remember now exactly what I envisioned, but I think what is now the Chorus (“Destroyed, by the Death Beast!”) was supposed to go where the verse is now, and somehow what are now the second verse and the pre-solo bridge part were supposed to be the choruses. Again, Stan/Ironfist’s changes were for the better. I don’t naturally think along the lines of a vocalist, so I plot my vocal rhythms pretty mathematically, like another instrument. What Stan did with changing feels, dropping lines, fitting six lines into four or stretching four into six or six into eight gave a much greater variation in vocal delivery than I would have come up with on my own. Nowhere is this more apparent in what I write than in this song, I think - too bad I never demoed a version with my original vocal conception to show the different. Also, it’s a testament to his ability in this area that I can’t even imagine or remember now what I was originally planning - what he came up with just feels so right.&lt;/p&gt;
-
-&lt;p&gt;But, back to the riffs, to keep up with the theme of varying my approaches to riffs and feels throughout the song, after the triplet-based D-Ab riff, I took it down three half-steps to B, where the verse stays with a steady, superfast line that’s pretty straight. The harmonized guitar riff at the end of the first 3 verse repeats was my attempt to rewrite Slayer’s “Face the Slayer”, but in a different key and faster hopefully nobody noticed too much. Descending power chords on the last repeat kept me from just repeating the same thing over and over, and it also let me lead to the chorus - Back to D, but fast like the verse while opening up with ringing power chords instead of frantic picking.&lt;/p&gt;
-
-&lt;p&gt;After the second chorus I thought it was far enough from the intro to return to the riff, but this was when I mutated the riff into a slower, crunchy 4/4 feel and added the octave-sliding bit into the mix. I somehow got that bit from Moonblood by way of Nargaroth, as I had just figured out their cover of “The Gates of Eternity” which uses an octave riff in a different key. It ended up fitting well, either layering the parts on top of each other or adding in the octave riff on each fourth repeat of the original main riff. I intended for the solo section overall to feel a bit like that middle solo section of Judas Priest’s “Sinner”, where the feel goes really slow and the lead guitar turns into a noise machine of anger, then slowly builds back up to the song again. Another part I was happy with was how the end of the solo goes like the beginning with long, ringing chords, but the second buildup goes back to the original triplets instead of the changed eighth-note section, bringing the song full circle.&lt;/p&gt;
-
-&lt;p&gt;As with most of the writing for these demo songs, after reading the lyrics repeatedly the cadence of the lyrics suggested the rhythms of the riffs, and so they all fell together pretty quickly.  I don’t remember agonizing over any of the arrangement ideas or ‘now where do I go?’ questions - quite a contrast with the songs for &lt;em&gt;The Onslaught&lt;/em&gt;, though I wouldn’t find that out for another 12 years at that point…&lt;/p&gt;
-</description>
-        <pubDate>Thu, 30 May 2019 00:00:00 -0400</pubDate>
-        <link>/songs/lyrics-death-beast</link>
-        <guid isPermaLink="true">/songs/lyrics-death-beast</guid>
         
         <category>Death-Beast</category>
         
