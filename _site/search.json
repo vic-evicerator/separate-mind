@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "This End Down",
+      "category" : "News",
+      "tags"     : "Rampage, UHR",
+      "url"      : "/news/this-end-down",
+      "date"     : "2022-06-14 00:00:00 -0400",
+      "content": "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\": {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
       "title"    : "BACK FROM THE DEAD",
       "category" : "News",
       "tags"     : "Rampage, UHR",
