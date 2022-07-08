@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "It&#39;s Not Fake, It&#39;s Memorex",
+      "category" : "History",
+      "tags"     : "Death-Beast, History",
+      "url"      : "/history/its-not-fake-its-memorex",
+      "date"     : "2022-07-08 00:00:00 -0400",
+      "content": "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\": {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
       "title"    : "This End Down",
       "category" : "News",
       "tags"     : "Rampage, UHR",
