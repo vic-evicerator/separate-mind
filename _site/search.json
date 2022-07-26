@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Lyrics - Devastator",
+      "category" : "Songs",
+      "tags"     : "Death-Beast, The-Onslaught",
+      "url"      : "/songs/lyrics-devastator",
+      "date"     : "2022-07-24 00:00:00 -0400",
+      "content": "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\": {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
       "title"    : "It&#39;s Not Fake, It&#39;s Memorex",
       "category" : "History",
       "tags"     : "Death-Beast, History",
